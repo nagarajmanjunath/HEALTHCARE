@@ -12,11 +12,21 @@ Health Care (count the pulse rate per minute)# HEALTHCARE
 * call function using POSTMAN 
   {BPM:120} 120 is pulse rate
 
-Example :  Genisis Block
+Example :  
             {
-                  Index: (int) 0,
-                  Timestamp: (string) (len=54) "2018-07-26 15:48:02.805298246 +0800 +08 m=+0.003368918",
-                  BPM: (int) 0,
-                  Hash: (string) "",
-                  PrevHash: (string) ""
+                  
              }
+
+   Genisis Block
+    
+    { 
+     Index: (int) 0,
+     Timestamp: (string) (len=54) "2018-07-26 15:48:02.805298246 +0800 +08 m=+0.003368918",
+     BPM: (int) 0,
+     Hash: (string) "",
+     PrevHash: (string) ""
+     }   
+ 
+    To install clone this repository
+    $ git clone https://github.com/nagarajmanjunath/HEALTHCARE.git
+    $ go run main.go 
