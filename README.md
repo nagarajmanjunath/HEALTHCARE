@@ -12,12 +12,7 @@ Health Care (count the pulse rate per minute)# HEALTHCARE
 * call function using POSTMAN 
   {BPM:120} 120 is pulse rate
 
-Example :  
-            {
-                  
-             }
-
-   Genisis Block
+Example :Genisis Block
     
     { 
      Index: (int) 0,
