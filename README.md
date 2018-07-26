@@ -1,2 +1,1 @@
-# HEALTHCARE
-COUNT THE PULSE RATE (BIT PER MIN)
+Health Care (count the pulse rate per minute)# HEALTHCARE
